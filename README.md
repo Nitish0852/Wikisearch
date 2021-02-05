@@ -22,5 +22,5 @@ Execution
 ```
 python3 wiki.py <term> <output_file_name>
 ```
-Additional Summary is also written in file /<term/>.txt
+Additional Summary is also written in file <term>.txt
   
